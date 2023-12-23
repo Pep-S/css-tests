@@ -1,0 +1,20 @@
+/* style-2.css for 02-class-id-selectors.html */
+
+p {
+    background-color: #ff69b4;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 32px;
+}
+
+.three {
+    font-size: 32px;
+}
+
+#four {
+    background-color: #90ee90;
+    font-size: 32px;
+}

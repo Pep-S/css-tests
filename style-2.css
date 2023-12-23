@@ -2,7 +2,7 @@
 
 p {
     background-color: #ff69b4;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #two {
@@ -17,4 +17,5 @@ p {
 #four {
     background-color: #90ee90;
     font-size: 32px;
+    font-weight: bold;
 }
